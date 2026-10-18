@@ -1,0 +1,10 @@
+#!/bin/sh
+# 优先独立环境，其次使用教学工作区的环境。
+TASK_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+if [ -x "$TASK_ROOT/.venv/bin/python" ]; then
+    exec "$TASK_ROOT/.venv/bin/python" "$TASK_ROOT/main.py" "$@"
+fi
+if [ -x "$TASK_ROOT/../.venv/bin/python" ]; then
+    exec "$TASK_ROOT/../.venv/bin/python" "$TASK_ROOT/main.py" "$@"
+fi
+exec python3 "$TASK_ROOT/main.py" "$@"

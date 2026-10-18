@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="MiniAgent by Spinverse: Spin Up Your Universe">
+<rect width="1280" height="320" rx="18" fill="#0e0e0e"/>
+<g stroke="#3cca79" fill="none" stroke-width="1.2" opacity=".45"><ellipse cx="1110" cy="158" rx="108" ry="42" transform="rotate(-35 1110 158)"/><ellipse cx="1110" cy="158" rx="108" ry="42" transform="rotate(35 1110 158)"/><circle cx="1110" cy="158" r="79"/></g>
+<circle cx="1110" cy="158" r="7" fill="#3cca79"/>
+<g font-family="Arial, Helvetica, PingFang SC, Microsoft YaHei, sans-serif"><text x="56" y="63" fill="#3cca79" font-size="16" letter-spacing="3">SPINVERSE · OPEN SOURCE</text><text x="56" y="139" fill="#eeeeee" font-size="64" font-weight="700">MINI AGENT</text><text x="490" y="139" fill="#9b9b9b" font-size="26">v1.2</text><text x="58" y="188" fill="#c8c8c8" font-size="24">Spin Up Your Universe</text><text x="58" y="232" fill="#a0a0a0" font-size="20">自旋不息，宇宙无界</text><text x="58" y="285" fill="#6b9d7d" font-size="15">AGENT ENGINEERING · READ THE CODE · RUN THE TOOLS · VERIFY THE RESULT</text><text x="1063" y="285" fill="#b2b2b2" font-size="17">spinverse.cn</text></g>
+</svg>
